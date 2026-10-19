@@ -14,7 +14,6 @@ Application Security Engineer focused on web & mobile security, secure SDLC, and
 - Building LLM-assisted tooling for AppSec workflows
 
 **AI Security**
-- AI/LLM security
 - AI threat modeling and single-/multi-agent security, including A2A workflows
 - Security assessments of RAG pipelines, embeddings, MCP and tool integrations
 - AI/ML supply-chain, infrastructure and deployment security
