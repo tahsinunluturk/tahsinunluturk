@@ -15,7 +15,10 @@ Application Security Engineer focused on web & mobile security, secure SDLC, and
 
 **AI Security**
 - AI/LLM security
-- Security testing with AI
+- AI threat modeling and single-/multi-agent security, including A2A workflows
+- Security assessments of RAG pipelines, embeddings, MCP and tool integrations
+- AI/ML supply-chain, infrastructure and deployment security
+- Manual and AI-assisted security testing
 
 ### Certifications
 ![OSCP+](https://img.shields.io/badge/OSCP+-OffSec-red?style=flat-square)
